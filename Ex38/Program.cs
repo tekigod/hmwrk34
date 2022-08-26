@@ -2,7 +2,7 @@
 // Например: 
 // [3.5, 7.1, 22.9, 2.3, 78.5] -> 76.2
 
-Console.Write("Количество чисел: ");
+Console.Write("Размер массива: ");
 double v = Convert.ToDouble(Console.ReadLine());
 int r = Convert.ToInt32(v);
 int[] a = new int[r];
