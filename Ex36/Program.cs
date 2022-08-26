@@ -18,9 +18,9 @@ public class ycheba {
             else
                 o += arr[i];
         }
-        Console.WriteLine("Even index positions sum "
+        Console.WriteLine("Сумма четных индексов:  "
                           + e);
-        Console.WriteLine("Odd index positions sum " + o);
+        Console.WriteLine("Сумма нечетных индексов:  " + o);
     }
  
     static public void Main()
